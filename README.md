@@ -1,0 +1,2 @@
+# UIAlertController_VS_UIAlertView_demo
+UIAlertController和UIAlertView的比较和使用。
